@@ -764,6 +764,4 @@ client dfHU9jpSSl6d4DEgAAAB disconnected
 
 提交方式：待定
 
-任何问题，欢迎随时联系TA。
-
 加分题：1、碰撞检测 2、通信架构部分客户端注释选择分支的意义 3、其他你认为有价值的部分。
